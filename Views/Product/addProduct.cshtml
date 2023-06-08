@@ -1,0 +1,57 @@
+﻿@model PhaseOne.viewModel.NewProductViewModel
+@{
+    ViewBag.Title = "addProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .center-screen {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        min-height: 100vh;
+    }
+</style>
+<div class="center-screen">
+    <h2>Add New Product</h2>
+
+    @using (Html.BeginForm("Add", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.ValidationSummary(true, "Please fix the following errors.")
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Name)
+            @Html.TextBoxFor(m => m.Product.Name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Product.Name)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Price)
+            @Html.TextBoxFor(m => m.Product.Price, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Product.Price)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Description)
+            @Html.TextAreaFor(m => m.Product.Description, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Product.Description)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.CategoryId)
+            @Html.DropDownListFor(m => m.Product.CategoryId, new SelectList(Model.Categories, "Id", "Name"), "Select Category that you want", new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Product.CategoryId)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Image)
+            <input type="file" name="upload"/>
+            @Html.ValidationMessageFor(m => m.Product.Image)
+        </div>
+
+        @Html.HiddenFor(m => m.Product.Id)
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-primary" style="width:100px;padding:15px">Add</button>
+    }
+
+    @section scripts
+{
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

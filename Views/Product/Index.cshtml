@@ -1,0 +1,241 @@
+﻿@using System.Web.UI
+@using PhaseOne.Models
+@model IEnumerable<PhaseOne.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<html>
+<body>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <style>
+        .am {
+            border: 0;
+            line-height: 2.5;
+            padding: 4 20px;
+            font-size: 1rem;
+            text-align: center;
+            color: #fff;
+            text-shadow: 1px 1px 1px #000;
+            border-radius: 80px;
+            background-color: rgba(220, 0, 0, 1);
+            background-image: linear-gradient(to top left, rgba(0, 0, 0, .9), rgba(0, 0, 0, .2) 30%, rgba(0, 0, 0, 0));
+            box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6), inset -2px 2px 3px rgba(0, 0, 0, .6);
+        }
+
+        .w3-card-4, .w3-hover-shadow:hover {
+            box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+            float: left;
+        }
+
+        .w3-container {
+            padding: 0.01em 16px;
+            text-align: center
+        }
+
+        .top {
+            margin-left: 32%;
+        }
+
+        .center-screen {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 30vh;
+            margin-top: 3%;
+        }
+
+        .modal{
+            margin-top:100px;
+        }
+
+    </style>
+    <div class="top" style="overflow: hidden;margin-top:25px">
+        @using (Html.BeginForm("Index", "Product", FormMethod.Get))
+        {
+            <input list="searchlist" type="text" name="filtercategory" placeholder="Enter Category ... " style="width:25%;margin:25px;float:left" id="category" />
+            <datalist id="searchlist">
+                <option value="All">
+                <option value="Laptops">
+                <option value="Mobiles">
+                <option value="TVs">
+                <option value="Clothes">
+                <option value="Toys">
+            </datalist>
+            <button id="clickbtn" style="display:none"></button>
+        }
+        <a href="@Url.Action("addProduct","Product")" class="button" style="margin:25px;float:left;margin-top:0;margin-left:10px; text-decoration:none"><span>Add Product</span></a>
+        <button class="button" style="margin:25px;float:left;margin-top:0;margin-left:220px; text-decoration:none" data-target="#cart" data-toggle="modal"><span>Go to cart list ></span></button>
+        <div class="modal" data-backdrop="static" id="cart" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button onclick="Reload()" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title" style="text-align:center">Cart List</h4>
+                    </div>
+                    <div class="modal-body">
+                        <table style="width:100%">
+
+                            @{
+                                int buttonid = 0;
+
+                                var con = new ApplicationDbContext();
+                                var prods = con.Products.ToList();
+                                foreach (var product in prods)
+                                {
+                                    var temp = con.Cart.Find(product.Id);
+                                    if (temp != null)
+                                    {
+                                        <tr>
+                                            <th><button onclick="Remove()" href="" title="" class="button" id=@buttonid data-arg1=@buttonid data-arg2=@product.Id>Remove</button></th>
+                                            @{
+                                                DateTime now = DateTime.Now;
+                                                TimeSpan span = (now - temp.added_at);
+                                            }
+
+                                            <th>
+                                                @{ if ((span.Days / 30) > 0)
+                                                    {
+                                                        <span>@product.Name @product.Price EGP <br /> Added to cart @(span.Days / 30) months ago.</span>
+                                                    }
+                                                    else if ((span.Days / 7) > 0)
+                                                    {
+                                                        <span>@product.Name @product.Price EGP <br /> Added to cart @(span.Days / 7) weeks ago.</span>
+                                                    }
+                                                    else if (span.Days > 0)
+                                                    {
+                                                        <span>@product.Name @product.Price EGP <br /> Added to cart @span.Days days ago.</span>
+                                                    }
+                                                    else if (span.Hours > 0)
+                                                    {
+                                                        <span>@product.Name @product.Price EGP <br /> Added to cart @span.Hours hours ago.</span>
+                                                    }
+                                                    else if (span.Minutes > 0)
+                                                    {
+                                                        <span>@product.Name @product.Price EGP <br /> Added to cart @span.Minutes minutes ago.</span>
+                                                    }
+                                                    else if (span.Seconds > 0)
+                                                    {
+                                                        <span> @product.Name @product.Price EGP <br /> Added to cart @span.Seconds seconds ago.</span>
+                                                    }
+                                                    buttonid++;
+
+                                                }
+                                            </th>
+                                        </tr>
+                                    }
+
+                                }
+                            }
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    @{ buttonid = 0;}
+<div>
+    <div class="row">
+        @if (Model.Count() > 0)
+        {
+            foreach (var product in Model)
+            {
+                <div class="col-lg-2 col-md-3 col-xs-6" >
+                    <a href="@Url.Action("Details", "Product", new { id = product.Id })" >
+                        <div class="w3-card-4 test" style="overflow:hidden;width:100%;height:65%;margin-bottom:10px">
+                            <img src="~/Uploads/@product.Image" alt="Avatar" style="width:100%; height:70%;">
+                            <div class="w3-container">
+                                <h4><b>@product.Name</b></h4>
+                                <h4>@product.Price EGP</h4>
+                            </div>
+                            <div style="text-align:center" class="cartbutton">
+                                @{
+                                    var context = new ApplicationDbContext();
+                                    var tmp = context.Cart.Find(product.Id);
+
+                                    if (tmp != null)
+                                    {
+                                        <h5 class="am">Already in your cart</h5>
+
+                                    }
+                                    else
+                                    {
+
+                                        <a onclick="Add()" href="#" title="" class="am" id=@buttonid data-arg1=@buttonid data-arg2=@product.Id>Add to cart</a>
+                                    }
+                                }
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                buttonid++;
+            }
+        }
+        else
+        {
+            <div>
+                <h1 class="center-screen" style="color:darkgray">No Product Found</h1>
+            </div>
+        }
+    </div>
+</div>
+    <script>
+        function Add() {
+            var x = document.getElementById(event.target.getAttribute('data-arg1'));
+            var productid = event.target.getAttribute('data-arg2');
+            x.innerHTML = "Added to the cart";
+            try {
+                $.ajax({
+                    type: "GET",
+                    url: "/Cart/Addtocart?id=" + productid,
+                    error: function () {
+                        alert("Something Went Wrong !! ");
+                        x.innerHTML = "Add to cart";
+                    },
+                    success: function () {
+                        setTimeout(function () {
+                            window.location.reload(true);
+                    }, 1000);
+                        //window.location.href = "/Product/Index";
+                        
+                    }
+                });
+            } catch (err) { }
+
+        }
+        function Remove() {
+            var x = document.getElementById(event.target.getAttribute('data-arg1'));
+            var productid = event.target.getAttribute('data-arg2');
+            try {
+                $.ajax({
+                    type: "GET",
+                    url: "/Cart/Removefromcart?id=" + productid,
+                    error: function () {
+                        alert("Something Went Wrong !! ");
+                        x.innerHTML = "Remove";
+                    },
+                    success: function () {
+                        x.parentNode.parentNode.parentNode.removeChild(x.parentNode.parentNode);
+
+                    }
+                });
+            } catch (err) { }
+
+        }
+        function Reload() {
+            window.location.reload(true);
+        }
+
+        document.getElementById('category').addEventListener('input', function () {
+            $("#clickbtn").click() 
+    });
+
+    </script>
+
+</body>
+</html>

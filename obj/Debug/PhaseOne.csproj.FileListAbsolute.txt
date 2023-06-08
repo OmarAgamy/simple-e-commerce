@@ -1,0 +1,854 @@
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\PhaseOne.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\EntityFramework.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Owin.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\WebGrease.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\EntityFramework.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+C:\Users\Abdelrhman\source\repos\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+C:\Users\DELL\Downloads\Compressed\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+D:\My Data\Downloads\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.cart.resources
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.cart.resources
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+C:\Users\DELL\Downloads\Compressed\Agamy\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.cart.resources
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+C:\Users\DELL\Downloads\Compressed\IA Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.cart.resources
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+C:\Users\abdoo\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.exe.config
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csc.rsp
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.exe.config
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\csi.rsp
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.AppContext.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Collections.Immutable.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Console.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Globalization.Calendars.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Http.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Net.Sockets.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.ValueTuple.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.exe.config
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\vbc.rsp
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\roslyn\VBCSCompiler.exe.config
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csprojAssemblyReference.cache
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.cart.resources
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+D:\My Data\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll.config
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\PhaseOne.pdb
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Owin.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\WebGrease.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\EntityFramework.SqlServer.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Helpers.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Mvc.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Optimization.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.Razor.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Newtonsoft.Json.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Antlr3.Runtime.pdb
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.AssemblyReference.cache
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddProductModel.resources
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.AddCategoriesModel.resources
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.PopulateCategories.resources
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.ChangePriceType.resources
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.Migrations.cart.resources
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.GenerateResource.cache
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CoreCompileInputs.cache
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.csproj.CopyComplete
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.dll
+D:\Downloads\IA Final Final\IA Final Final\PhaseOne\PhaseOne\PhaseOne\obj\Debug\PhaseOne.pdb

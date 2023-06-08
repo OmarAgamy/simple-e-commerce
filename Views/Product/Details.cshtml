@@ -1,0 +1,46 @@
+﻿@model PhaseOne.Models.Product
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<style>
+    .center-screen {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        min-height: 100vh;
+        margin-top:3%;
+    }
+</style>
+<div class="center-screen">
+    <div><h1> @Model.Name - @Model.Price $ (@Model.Category.Name )</h1></div>
+
+
+    <div>
+        <img class="img-responsive" alt="Responsive image" src="~/Uploads/@Html.DisplayFor(model => model.Image)" />
+    </div>
+
+
+
+    <div style="width:450px; margin-bottom:25px;margin-top:25px"> @Model.Description</div>
+
+
+
+    <p>
+        @Html.ActionLink("Edit", "Edit", "Product", new { id = Model.Id }, new { @class = "btn btn-primary" , @style="width:100px;padding:15px"})
+    </p>
+
+    <p>
+        @Html.ActionLink("Delete", "Delete", new { id = Model.Id }, new { @class = "btn btn-primary" , @style="width:100px;padding:15px" })
+    </p>
+
+</div>
+
+
+
+
